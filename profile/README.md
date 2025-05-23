@@ -29,11 +29,12 @@ SmartLandlord’s intuitive interface ensures that users can navigate and utiliz
 
 ## 💼 Subscription Plans
 
-| Plan       | Properties | Features | Monthly | Annual |
-|------------|------------|----------|---------|--------|
-| **Starter**    | Up to 3     | Basic evaluations, GPT-4.1-mini AI bot | €9.99  | €99.99 |
-| **Pro**        | Up to 7     | AI location analysis, 30 reports/month, Google Maps | €15.99 | €159.99 |
-| **Enterprise** | Up to 30    | Advanced GPT-4.1 AI, 100 reports/month, Street View | €19.99 | €199.99 |
+| Plan         | Properties | Features | Monthly | Annual |
+|--------------|------------|----------|---------|--------|
+| **Free**         | 1            | Basic evaluations, property summary report | €0.00   | €0.00   |
+| **Starter**      | Up to 3     | Basic evaluations, GPT-4.1-mini AI bot | €9.99  | €99.99 |
+| **Pro**          | Up to 7     | AI location analysis, 30 reports/month, Google Maps | €15.99 | €159.99 |
+| **Enterprise**   | Up to 30    | Advanced GPT-4.1 AI, 100 reports/month, Street View | €19.99 | €199.99 |
 
 > Additional properties can be added in 10-property packs. Pricing depends on the selected plan.
 
